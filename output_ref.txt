@@ -1,0 +1,360 @@
+performing input from main.py
+...reading files
+...files read
+...starting evaluation of input_files/verification/adjoints/problem_0.json
+...done
+runtime :  0 minutes  0.237 second
+...done
+...reading files
+...files read
+...starting evaluation of input_files/verification/adjoints/problem_12.json
+...done
+runtime :  0 minutes  5.245 second
+...done
+...reading files
+...files read
+...starting evaluation of input_files/verification/run_mode_-1.json
+91 steps done in 3.710493803024292 seconds
+Reference value : 0.27930965557397552379015337464807089418172836303711
+...done
+runtime :  0 minutes  3.755 second
+...done
+...reading files
+...files read
+...starting evaluation of input_files/verification/run_mode_0.json
+...running tol = 1.00e+00
+1 steps done in 0.004219770431518555 seconds
+...running tol = 1.00e-01
+3 steps done in 0.008365869522094727 seconds
+...running tol = 1.00e-02
+7 steps done in 0.01777362823486328 seconds
+...running tol = 1.00e-03
+20 steps done in 0.04986000061035156 seconds
+...running tol = 1.00e-04
+61 steps done in 0.14963912963867188 seconds
+...running tol = 1.00e-05
+190 steps done in 0.46422767639160156 seconds
+...running tol = 1.00e-06
+601 steps done in 1.4808058738708496 seconds
+Order estimation through the slopes : 
+1.4666042307237905
+1.6905726392720644
+1.919560841383176
+1.9879194329935712
+1.9995681539818762
+1.9907924167092228
+...done
+runtime :  0 minutes  2.255 second
+...done
+...reading files
+...files read
+...starting evaluation of input_files/verification/run_mode_2_0.json
+...performing startup with tol = 1.00e+00
+1 steps done in 0.0035233497619628906 seconds
+...running tol = 1.00e+00
+1 steps done in 0.0034601688385009766 seconds
+...running tol = 1.00e-01
+3 steps done in 0.008685827255249023 seconds
+...running tol = 1.00e-02
+7 steps done in 0.0182039737701416 seconds
+...running tol = 1.00e-03
+20 steps done in 0.05022549629211426 seconds
+...done
+runtime :  0 minutes  0.190 second
+...starting evaluation of input_files/verification/run_mode_2_1.json
+...performing startup with tol = 1.00e+00
+1 steps done in 0.0049784183502197266 seconds
+...running tol = 1.00e+00
+1 steps done in 0.004544734954833984 seconds
+...running tol = 1.00e-01
+2 steps done in 0.008041143417358398 seconds
+...running tol = 1.00e-02
+5 steps done in 0.018175363540649414 seconds
+...running tol = 1.00e-03
+13 steps done in 0.04626059532165527 seconds
+...running tol = 1.00e-04
+40 steps done in 0.14039301872253418 seconds
+...running tol = 1.00e-05
+124 steps done in 0.4448528289794922 seconds
+...done
+runtime :  0 minutes  0.759 second
+...starting evaluation of input_files/verification/run_mode_2_2.json
+...performing startup with tol = 1.00e+00
+DWR est : 0.00022920049870714694 for 10 cells
+TRUE ERROR 5.38076343148397e-07
+...running tol = 1.00e+00
+DWR est : 0.00022920049870714694 for 10 cells
+TRUE ERROR 5.38076343148397e-07
+...running tol = 1.00e-01
+TRUE ERROR 5.38076343148397e-07
+...running tol = 1.00e-02
+TRUE ERROR 5.38076343148397e-07
+...running tol = 1.00e-03
+TRUE ERROR 5.38076343148397e-07
+...done
+runtime :  0 minutes  0.162 second
+...done
+...reading files
+...files read
+...starting evaluation of input_files/verification/RK/run_mode_0_21.json
+...running tol = 1.00e+00
+1 steps done in 0.00013399124145507812 seconds
+...running tol = 1.00e-01
+3 steps done in 0.00027823448181152344 seconds
+...running tol = 1.00e-02
+8 steps done in 0.0007104873657226562 seconds
+...running tol = 1.00e-03
+21 steps done in 0.0018494129180908203 seconds
+...running tol = 1.00e-04
+62 steps done in 0.005309104919433594 seconds
+...running tol = 1.00e-05
+191 steps done in 0.016382932662963867 seconds
+...running tol = 1.00e-06
+602 steps done in 0.053635597229003906 seconds
+...running tol = 1.00e-07
+1899 steps done in 0.16964340209960938 seconds
+Order estimation through the slopes : 
+1.160885774836238
+0.7622447489237755
+0.9502887428730378
+0.9783308488103553
+0.9922439240859999
+0.996801930518818
+0.9993282672403345
+...done
+runtime :  0 minutes  0.313 second
+...done
+...reading files
+...files read
+...starting evaluation of input_files/verification/RK/run_mode_0_32.json
+...running tol = 1.00e+00
+1 steps done in 0.00019240379333496094 seconds
+...running tol = 1.00e-01
+2 steps done in 0.00033354759216308594 seconds
+...running tol = 1.00e-02
+3 steps done in 0.0004832744598388672 seconds
+...running tol = 1.00e-03
+4 steps done in 0.0006697177886962891 seconds
+...running tol = 1.00e-04
+7 steps done in 0.0011932849884033203 seconds
+...running tol = 1.00e-05
+15 steps done in 0.0025343894958496094 seconds
+...running tol = 1.00e-06
+30 steps done in 0.004857063293457031 seconds
+...running tol = 1.00e-07
+63 steps done in 0.010319709777832031 seconds
+Order estimation through the slopes : 
+1.0647574239451019
+-0.18486744766991225
+0.9389425573460033
+0.851536633372394
+1.009137898012842
+1.0065005337925523
+0.9918258324573153
+...done
+runtime :  0 minutes  0.023 second
+...done
+...reading files
+...files read
+...starting evaluation of input_files/verification/RK/run_mode_0_541.json
+...running tol = 1.00e+00
+1 steps done in 0.0002849102020263672 seconds
+...running tol = 1.00e-01
+2 steps done in 0.0005176067352294922 seconds
+...running tol = 1.00e-02
+2 steps done in 0.0005130767822265625 seconds
+...running tol = 1.00e-03
+2 steps done in 0.0005168914794921875 seconds
+...running tol = 1.00e-04
+3 steps done in 0.0007805824279785156 seconds
+...running tol = 1.00e-05
+4 steps done in 0.0010495185852050781 seconds
+...running tol = 1.00e-06
+5 steps done in 0.0013222694396972656 seconds
+...running tol = 1.00e-07
+7 steps done in 0.0018725395202636719 seconds
+...running tol = 1.00e-08
+11 steps done in 0.0029075145721435547 seconds
+...running tol = 1.00e-09
+16 steps done in 0.0042231082916259766 seconds
+...running tol = 1.00e-10
+24 steps done in 0.006366252899169922 seconds
+...running tol = 1.00e-11
+37 steps done in 0.01049041748046875 seconds
+Order estimation through the slopes : 
+1.5323937624898558
+0.025941829647189395
+0.3669099648752161
+0.011720488278658708
+0.4170439299558188
+0.6912433631355774
+0.7874495276885463
+0.8936608063677446
+0.937404350653278
+0.9552948609224541
+0.9630212718592615
+...done
+runtime :  0 minutes  0.034 second
+...done
+...reading files
+...files read
+...starting evaluation of input_files/verification/RK/run_mode_0_-21.json
+...running tol = 1.00e+00
+1 steps done in 0.003533601760864258 seconds
+...running tol = 1.00e-01
+2 steps done in 0.0064580440521240234 seconds
+...running tol = 1.00e-02
+4 steps done in 0.012886285781860352 seconds
+...running tol = 1.00e-03
+8 steps done in 0.0264129638671875 seconds
+...running tol = 1.00e-04
+20 steps done in 0.06443595886230469 seconds
+...running tol = 1.00e-05
+58 steps done in 0.18623638153076172 seconds
+...running tol = 1.00e-06
+178 steps done in 0.5459938049316406 seconds
+...running tol = 1.00e-07
+558 steps done in 1.7363824844360352 seconds
+Order estimation through the slopes : 
+0.4847412746613336
+0.38199424813000843
+0.7598564091721669
+0.9250600517366864
+0.9710646849499838
+0.9911594758947956
+0.9963692171904235
+...done
+runtime :  0 minutes  2.585 second
+...done
+...reading files
+...files read
+...starting evaluation of input_files/verification/RK/run_mode_0_-32.json
+...running tol = 1.00e+00
+1 steps done in 0.004998207092285156 seconds
+...running tol = 1.00e-01
+2 steps done in 0.010002374649047852 seconds
+...running tol = 1.00e-02
+3 steps done in 0.014341115951538086 seconds
+...running tol = 1.00e-03
+6 steps done in 0.02922368049621582 seconds
+...running tol = 1.00e-04
+11 steps done in 0.0535130500793457 seconds
+...running tol = 1.00e-05
+22 steps done in 0.10576343536376953 seconds
+...running tol = 1.00e-06
+46 steps done in 0.2320718765258789 seconds
+...running tol = 1.00e-07
+97 steps done in 0.46816492080688477 seconds
+Order estimation through the slopes : 
+0.8269174057544801
+0.3679235821205722
+0.6622979673889354
+0.943218993153826
+0.9650310916810376
+0.9777681324941867
+0.9956819279893975
+...done
+runtime :  0 minutes  0.921 second
+...done
+...reading files
+...files read
+...starting evaluation of input_files/verification/toy/run_mode_0.json
+...running tol = 1.00e+00
+2 steps done in 0.0060024261474609375 seconds
+...running tol = 1.00e-01
+9 steps done in 0.02332592010498047 seconds
+...running tol = 1.00e-02
+18 steps done in 0.046599388122558594 seconds
+...running tol = 1.00e-03
+49 steps done in 0.13267803192138672 seconds
+Order estimation through the slopes : 
+0.6179083858558033
+0.6975664634381707
+0.9464730029744014
+...done
+runtime :  0 minutes  0.256 second
+...done
+...reading files
+...files read
+...starting evaluation of input_files/verification/ver/run_mode_0.json
+...running tol = 1.00e+00
+1 steps done in 0.0042150020599365234 seconds
+...running tol = 1.00e-01
+3 steps done in 0.007824420928955078 seconds
+...running tol = 1.00e-02
+6 steps done in 0.014703750610351562 seconds
+...running tol = 1.00e-03
+18 steps done in 0.04262971878051758 seconds
+Order estimation through the slopes : 
+0.7316739492276721
+0.8245667498085956
+0.9718133682289605
+...done
+runtime :  0 minutes  0.102 second
+...done
+...reading files
+...files read
+...starting evaluation of input_files/verification/ver_time/run_mode_0.json
+...running tol = 1.00e+00
+1 steps done in 0.003379344940185547 seconds
+...running tol = 1.00e-01
+3 steps done in 0.008184671401977539 seconds
+...running tol = 1.00e-02
+8 steps done in 0.01996898651123047 seconds
+...running tol = 1.00e-03
+26 steps done in 0.0638127326965332 seconds
+Order estimation through the slopes : 
+0.8095848614372625
+0.9659769752495123
+1.0271967286951813
+...done
+runtime :  0 minutes  0.136 second
+...done
+...reading files
+...files read
+...starting evaluation of input_files/verification/heat_src_adv/run_mode_0.json
+...running tol = 1.00e+00
+20 steps done in 0.8202507495880127 seconds
+...running tol = 1.00e-01
+70 steps done in 3.0947320461273193 seconds
+...running tol = 1.00e-02
+234 steps done in 9.650360822677612 seconds
+Order estimation through the slopes : 
+0.7874214085950896
+1.5342004704951753
+...done
+runtime :  0 minutes  13.709 second
+...done
+...reading files
+...files read
+...starting evaluation of input_files/verification/FSI_2D/run_mode_0_ext_0.json
+...running tol = 1.00e+00
+1 steps done in 0.062132835388183594 seconds
+...running tol = 1.00e-01
+1 steps done in 0.058431148529052734 seconds
+...running tol = 1.00e-02
+71 steps done in 4.00109338760376 seconds
+...running tol = 1.00e-03
+404 steps done in 25.124696969985962 seconds
+Order estimation through the slopes : 
+0.0
+0.5123437368357783
+1.1154039990317468
+...done
+runtime :  0 minutes  29.356 second
+...starting evaluation of input_files/verification/FSI_2D/run_mode_0_ext_1.json
+...running tol = 1.00e+00
+1 steps done in 0.06093883514404297 seconds
+...running tol = 1.00e-01
+1 steps done in 0.05731058120727539 seconds
+...running tol = 1.00e-02
+71 steps done in 4.006036043167114 seconds
+...running tol = 1.00e-03
+404 steps done in 25.05486750602722 seconds
+Order estimation through the slopes : 
+0.0
+0.03572908799186807
+1.4984028519868446
+...done
+runtime :  0 minutes  29.283 second
+...done

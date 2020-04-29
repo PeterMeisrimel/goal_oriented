@@ -1,0 +1,20 @@
+DOXYFILE_ENCODING      = UTF-8
+PROJECT_NAME           = "Goal oriented time adaptivity"
+OUTPUT_DIRECTORY       = documentation
+CREATE_SUBDIRS         = NO
+
+OUTPUT_LANGUAGE        = English
+OPTIMIZE_OUTPUT_FOR_C  = NO
+
+GENERATE_TODOLIST      = YES # /todo
+GENERATE_TESTLIST      = YES # /test
+GENERATE_BUGLIST       = YES # /bug
+GENERATE_DEPRECATEDLIST= YES # /deprecated
+
+QUIET                  = YES
+WARN_NO_PARAMDOC       = YES
+WARN_IF_UNDOCUMENTED   = NO # no warnings for undocumented things, most notably class attributes
+
+INPUT                  = dt_controllers.py initialize.py main.py main_run.py problem.py problem_basic.py problem_FSI.py problem_src_adv.py problem_verify.py run_adjoint.py run_basic.py run_reference.py run_simulation.py run_tolerances.py time_int_DWR.py time_int.py schemes_FSI.py schemes_RK.py time_int_DG.py
+
+HAVE_DOT               = NO
