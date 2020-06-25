@@ -1,8 +1,15 @@
 # goal_oriented
 
 Written by Peter Meisrimel, Azahar Monge (coupled heat eq. test case), credit for help on DWR to Patrick Farrell
+
 contact: Peter.Meisrimel@na.lu.se
 License: see gpl-3.0.txt
+
+Related publications:
+
+Meisrimel, Peter, and Philipp Birken. "On Goal Oriented Time Adaptivity using Local Error Estimates." PAMM 17.1 (2017): 849-850.
+
+Meisrimel, Peter, and Philipp Birken. "Goal Oriented Time Adaptivity Using Local Error Estimates." Algorithms 13.5 (2020): 113.
 
 Developed using Python 3.6.6 and dolfin v. 2018.1.0
 Documented using doxygen (ver. 1.8.13)
